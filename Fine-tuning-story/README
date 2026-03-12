@@ -1,0 +1,4 @@
+The dataset for fine-tuning this model used from Arabic Automatic Story Generation with Large Language Models  paper.
+link: https://aclanthology.org/2024.arabicnlp-1.13/
+citation:
+Ahmed Oumar El-Shangiti, Fakhraddin Alwajih, and Muhammad Abdul-Mageed. 2024. Arabic Automatic Story Generation with Large Language Models. In Proceedings of the Second Arabic Natural Language Processing Conference, pages 140–152, Bangkok, Thailand. Association for Computational Linguistics.
