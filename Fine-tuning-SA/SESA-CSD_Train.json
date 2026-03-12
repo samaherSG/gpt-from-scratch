@@ -1,0 +1,4002 @@
+[
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": ". الجو اليوم so nice ما شاء الله",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "يا جماعة ، لا تنسون إنه عندنا meeting بكرة !",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": " والله today كان يوم hectic ، والشغل كان مرره overwhelming.",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": ".هلا ، how are you doing اليوم ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I was thinking اروح للسوق ولكن I decided to stay home.",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": ": بدأت أشتغل on my new project والموضوع جداً exciting لأنه something I've been passionate about for years",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I can't believe أنك نسيت تجيب الهدية لعيد ميلادي !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I'm really hungry , وش رايكم نطلب بيتزا tonight ?",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I can't believe راح نسافر بكرة Dubai .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Today , رايح أزور أهلي because it's been a long time .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I can't believe ما رحت السوق yesterday because كنت مشغول with work all day .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I can't wait to travel بس لازم أخلص شغلي الأول .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I can't wait to أزور الرياض لأنه الجو there is amazing in the winter .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I love visiting الرياض during the winter because الطقس يكون جميل جداً .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I’m running late , السيارة ما اشتغلت !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Today الجو كان حار so I decided to stay indoors واسترخي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I’m so tired الحين وتوني راجع من السفر .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "What's the plan اليوم بعد الجامعة ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Yesterday , رحت لمطعم وشفت there was a new menu .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Yesterday أنا رحت للسوق and bought some fresh vegetables عشان أعمل dinner for my family .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الحين we’re going to the market عشان نشتري some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "I'm feeling tired , بس لازم أخلص الشغل قبل الويكند .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Last weekend رحنا البحر we had a great time وسوينا شواء with friends .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Today الجو كان جداً حار in Riyadh !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Today رح أزور صديقي في الرياض to catch up and have dinner with him .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "‏الخطة الأسبوع الجاي إن شاء الله we will go hiking in Alula .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "We went to the mall ومع الأسف كان زحمة !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المسا اشتريت a new car من الوكالة وعندي plans to go on a road trip بكرة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الويكند الجاي إن شاء الله I'm planning a trip to Dubai .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الويكند الجاي بنروح للبحر عشان نعمل some jet skiing .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Wow ، المطعم اليوم كان جداً crowded ، ما قدرنا نحجز طاولة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Yesterday , رحت للسوق to buy some groceries and , you know , كان مرة زحمة !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "Yesterday أنا رحت للسوق with my friends وحنا انبسطنا كثير .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ابغى أشتري a new car بس الميزانية ما تسمح right now .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الويكند الجاي بنسافر للخبر with the family .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الجو اليوم is really nice , ومناسب إنك تقضي وقتك with friends .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الجو اليوم so nice and cool ، وش رايك نطلع نسوي something fun ؟",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الويكند هذا حروح مع الشباب لل desert عشان نعمل campfire ونشوي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الجو اليوم was incredibly hot , وأنا كنت ناوي swim لكنه كان مستحيل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الويكند هذا نبغى نروح السينما ونشوف the new movie .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم after work بنروح المول we can have dinner there .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الجو اليوم حلو , let's go for a walk !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الحفلة كانت amazing أمس .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الحفلة كانت amazing والأجواء كانت مرّة حماس !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I'm going to الراشد مول .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الحفلة كانت amazing والناس كانوا مره friendly .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I'm planning نسافر للرياض to visit العائلة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الحياة في السعودية it's quite interesting , خاصة لما تتعرف على ناس جدد .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الدراسة في الجامعة ممتعة because I get to meet new people and learn new things .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الدوام اليوم كان busy والصراحة تعبنا كثير .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الرحة اللي تجي في القلب when you follow your passion is something لا يوصف .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الشيء اللي أحب أسويه في الويكند is to relax and watch some movies with my family .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الكافي الجديد اللي جنب بيتي كثير cozy وريحته amazing .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "الكلاس كان today جداً interesting !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I decided to go to the mall with my friends عشان نتسوق ونشوف فيلم جديد .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المساء كان لطيف جداً because the weather was perfect for a walk .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المشروع الجديد it's very challenging بس إن شاء الله ننجح .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المشروع الجديد really challenging بس إحنا متحمسين .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المشروع جديد وما توقعنا يكون بهذا النجاح ، it's really impressive how fast it's growing .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I have a meeting بالليل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المشكلة إنو ال traffic اليوم كان مرة bad .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المطعم الجديد اللي جربناه أمس كان really amazing !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I need to finish some important work قبل ما أروح .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المطعم الجديد كان جداً زحمة yesterday .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المطعم دا مرره زحمة today !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المكان كان crowded والموسيقى كانت مرة loud .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المكان كان crowded وبصراحة ما كنت comfortable هناك .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I want to try a new restaurant اللي فتح قريب مني .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المكان هذا is really beautiful وخاصة في الشتاء .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I went to the mall and اشتريت بعض الملابس الجديدة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "المكان هذا مرة crowded ، مافي مكان نوقف السيارة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم felt so long بسبب ال meetings الكثيرة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I'm feeling so tired بسبب الشغل الكثير .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I went to the mall with my friends وشرينا أغراض جديدة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I'm feeling super tired , ما نمت كويس last night .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I went to the mall مع أصحابي و we watched a new movie .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I am feeling جداً سعيد to see you .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I decided أروح على الكورنيش واستمتع بالجو الجميل .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I went to the market with my friends عشان نشتري بعض الأشياء الجديدة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I feel like studying , بس عندي كثير مشاغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I have a lot of meetings وما أعرف كيف بخلص كل شيء .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I have a lot of work بس المعنويات ممتازة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I have so much work to do , ما أدري كيف رح أخلصه كله .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I have too many meetings ومشغول مرة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I went to the السوق and bought some فواكه .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I went to the سوق to buy some fresh خضار and فواكه .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I’m going to the mall بعد الظهر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I’m planning to go to the mall بس محتار إيش أشتري .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I have too much work وما عندي وقت أرتاح .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I visited the new mall والديكور كان ممتاز جداً !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I’m feeling a bit tired so ما رح أطلع .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I’m feeling really tired ، بس لازم أشتغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I’m feeling super tired , ما أقدر أركز .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم I’m really tired وما أقدر أروح الدوام .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم it's really hot برا .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم meeting كان جداً productive !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم meeting مع الفريق كان مره productive والحمدلله .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم seriously كان تعب !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم the weather was really nice في جدة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم meeting حقنا في المكتب الساعة 3 pm .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم meeting عندنا جداً important فلازم نكون كلنا on time .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم we are going to the market لأنه الجو حلو .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم weather was really nice , واحنا قررنا نروح للبحر for a picnic .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم weather كان مرة حلو في الظهران .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم weather مرررررة hot !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم meeting في المكتب مع الفريق الجديد .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم my friends رايحين للسينما .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم we're going to the mall عشان نشوف the new collection .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم we’re going to الكتاب fair .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم ال weekend بروح mall وأتسوق مع صديقاتي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو حار , so we decided to stay indoors .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان جداً حار , so we decided to stay indoors and watch a movie .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم ال project حقنا كان super challenging بس الحمدلله ، the team managed to finish it on time .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان مرة حار ، so I decided to stay home and relax .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الاجتماع كان amazing وصراحة استفدنا كثير !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو مرة حار , so I'm just going to stay indoors .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو perfect for a picnic .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو was really nice .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو was really nice and sunny in الرياض .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو حلو ونقدر نروح for a walk in the park .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان amazing ، روحنا الكافي وشربنا lattes .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان perfect ، قررنا نروح للبحر بعد الشغل .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان perfect لدرجة ما أحد يبغى يجلس في البيت .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان really nice بالمرة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم أنا رايح to the grocery store after work .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان so hot ، يعني ما قدرنا نطلع برا .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان very hot والمكيف ما اشتغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم أنا رايح to the grocery store وأحتاج أشتري some vegetables and fruits .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان very hot وما اتحملنا نطلع .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان very hot وما قدرنا نطلع البحر .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان جميل ، so we decided to go for a walk .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم بالليل راح نروح للسينما نشوف the new movie اللي نزلت .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم بعد الدوام , let's go to the mall for some shopping .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان حار جداً ، so I decided to stay indoors .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم بعد الشغل حروح الكوفي for a meeting .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم بعد الشغل راح نروح نلعب bowling مع ال friends .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم بعد العمل , I plan to go to the سوق to buy some fresh vegetables .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو كان مرة حلو , بس unfortunately I had to stay indoors .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو مرّة hot ، ما قدرت أطلع من البيت .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو مرة hot برا !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو مرة nice ، وقررت أروح للبحر بعد الدوام .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم بعد العمل ، I plan to go to the mall مع أصحابي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو مرة حار ، so I'm staying inside .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو مره perfect , نمشي الكورنيش ؟",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو مره حار , let's go to the beach for some fun .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم بعد المدرسة ، we're going to the mall .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو مره حلو , so let's go to the park .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الجو ممتاز ، and I'm feeling really good .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الشغل كان too stressful بصراحة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الشغل كان very stressful بصراحة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الكلاس كان online والمحتوى كان جداً ممتاز .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الكلاس كان really interesting وحبيت النقاش مع الدكتور .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم الميتينج كان مره productive والحمدلله الشباب كانوا جداً cooperative .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم حروح مع أصحابي to the mall .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم أنا feeling really tired ، ما أقدر أروح الدوام .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم أنا Really excited إننا بنروح السينما بالليل .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم أنا super busy وما أعتقد إنّي أخلص كل الشغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم راح نسوي presentation عن sustainable development .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم أنا جداً excited عشان بروح ال concert مع أصحابي .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم أنا مرة busy وما أقدر أروح ال mall .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم أنا مره متحمس because we're going to the beach !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم بدري شفت my friend في المول , وما قدرنا نسوي shopping because it was too crowded .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رايح المول because I need to buy some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رايحين to the mall with friends .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رايحين نلعب bowling بعد ما نخلص الشغل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رح أروح to the mall وأشتري some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رح نروح to the mall عشان نشتري أشياء جديدة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رح نروح للسينما because they are showing a new movie .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رحت to the mall واشتريت a new pair of shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم جو الرياض was amazing !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم حسيت إني so tired وما قدرت أركز .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم حنفطر في Starbucks لأنه their coffee is the best .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم خلصت my project قبل الموعد المحدد !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم دايما أحس إن my productivity level is really high .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رحت المول وكأن المكان super crowded .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رحنا the new mall وكان مرة حلو .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رحنا to the mall وما لقينا parking !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رحت السوق and bought some groceries for dinner .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رحت للسوبرماركت and bought some groceries for the week .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رحنا لل mall and had an amazing time !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رحنا للمنتزه and we had a great time !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم روحت للشركة and I was really productive !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم رحنا للسوق and we bought some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم شفت فيلم كان really amazing وأعتقد إنك حتستمتع بيه .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندنا meeting الساعة 3 في ال office .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي busy schedule وما أقدر أطلع معاكم",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي important meeting في المكتب .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي interview مع شركة جديدة بخصوص my career development .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي final exam ومره متوتر !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع المدير ، and I'm a bit nervous .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع المدير والصراحة أنا شوية stressed .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting الساعة 3 العصر في المكتب .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مهم في المكتب ، إن شاء الله الأمور تمشي smoothly .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم فعلاً كان so exhausting , وما أتخيل بكره أفضل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting بعد الظهر وأحتاج أجهز ال presentation قبل ما أروح .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting في المكتب بس بعدين بروح الكافيه .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم في الشغل كنت really busy وما لحقت أخلص tasks المطلوبة مني .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم في المكتب كان عندنا meeting وكان حلو و productive .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم قررت that I need to start eating healthier عشان أشعر بنشاط أكثر .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم قضيت وقت ممتع مع ال family في ال mall .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان hectic بالدوام وما قدرت أخلص كل الشغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان meeting مرة طويل ومعظمه كان boring .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان very exhausting وصعب التركيز بالشغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان جداً busy بالشغل وما خلصت أي شيء !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان جداً busy في الدوام والمشاريع ما تخلص !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان جداً busy في المكتب ، ما قدرت even آخذ break .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان جداً busy وما قدرت آخذ break .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان جداً busy وما كان عندي time أخلص كل ال tasks .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان زحمة في ال traffic ، وصراحة ما قدرت أوصل ال meeting on time .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي a really busy schedule because كان عندي meetings طول اليوم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي a really busy schedule وما قدرت أسوي أي شيء .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي a very productive day in the office .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي interview وكنت مرّة nervous .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting مع ال manager وكان مره productive .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting مع ال team وحللنا كل ال issues الحمدلله .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع manager في المكتب .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting مع المدير ، وبصراحة كانت ملاحظاته very beneficial لتطوير المشروع .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting مع المدير وكان جداً مفيد .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting مع زملائي في العمل وخلصناه بسرعة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting وأتأخرت عشان الزحمة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان مرة حلو , I had so much fun with my friends .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان مره busy وما قدرت أخلص ال assignments .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان مره hectic في المكتب !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان مره حلو because the weather was just perfect .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كانت عندي meeting مع المدير وهو كان very impressed بالأفكار الجديدة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كانت مرة busy في الشغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت at the mall وشفت a really cool jacket .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت busy وما رجعت البيت إلا متأخر .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت جداً busy وما قدرت أروح للموعد .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت في الهايبرماركت and I found some really good deals on electronics .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت مره busy بالشغل وما كان عندي وقت أبدًا للراحة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع ال team الساعة أربع .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع ال team حقنا بالشركة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم مرّة busy وما لحقت أسوي anything fun .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم مره حلو because the weather is just perfect .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع ال team عالساعة ثمانية .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "إذا انت تسوي your best في الحياة راح تلقى النجاح",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أحتاج أشتري new laptop لأن old one صار بطيء مرة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد , It's really interesting لما نشوف اللغات تمتزج سوا .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع ال team عشان نراجع ال project progress .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، أنا مرة busy اليوم وما أقدر أجي .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع الفريق and we need to finalize the مشروع by نهاية الأسبوع .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، خليني أحاول : The weather اليوم كان مرة حار وصار لازم نشغل التكييف .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، كنت أدرس و suddenly I realized I forgot my notes at home .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد I am excited إني بروح المهرجان الليلة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد الزحمة اليوم كانت crazy بالمول !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد اليوم weather is amazing في الرياض .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد اليوم راح أكون جداً busy مع الشغل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس I went to the mall وفجأة I saw an old friend ما شفته من زمان .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس we went to the mall و كان crowded جدا .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس انسدت الطرق بسبب the heavy rain .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس حضرت a really interesting concert in الرياض .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس ختمت my project بنجاح والحمد لله .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس رحت المول وشريت a really nice dress .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس رحت للسوق and I found a really nice coffee shop .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس روحت المول ، وكان فيه amazing عروض .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس شفت فيلم جديد وكان honestly the best movie I've seen this year .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس شفت فيلم وكان honestly one of the best movies I've ever seen .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع الفريق في المكتب الساعة 3 .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس ضاع مني الجوال وجاني إحساس it's gonna be a long day .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس في الدوام كان meeting كتير طويل وممل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان الجو very nice في الرياض .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع المدير حقنا حول ال new project اللي بنشتغل عليه .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع المدير في المكتب بعد الظهر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان اليوم busy جداً في الدوام .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان أحسن day في حياتي !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان عندنا meeting بالليل وخلصنا كل الشغل الحمدلله .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان عندي a really great time في الكوفي .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مع المدير وبعدها بنروح للمطعم السعودي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting مهم مره وكمان after we finish عندي شوية tasks .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي meeting وبعدين بروح عند أهلي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان عندي meeting في المكتب وكل الأشياء كانت تمام .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان عندي meeting مع ال team وتحس everything was so productive .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي اجتماع مهم in the afternoon .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان عندي meeting مع ال team وما خلصنا إلا بعد العشاء .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان عندي meeting مع المدير وعطاني feedback مره مفيد .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي اجتماع مهم with the project team بعد الظهر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنا رايحين للمول وشفنا a really cool shop .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنا في المول وشفت friend قديم ما شفته من زمان .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنا في المول وعجبني هداك الستايل modern مرة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنا في مول و فجأة صار power outage !",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنا نسوي شوبينق في المول وفجأة بدأت heavy rain !",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت at the mall وقابلت صديقي اللّي ما شفته من زمان .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت busy مرة وما قدرت أخلص ال report اللي مطلوب مني .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم عندي كتير شغل , but I’ll try to finish early .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم قررت أروح to the mall after work .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم قررت أروح لل mall عشان أشتري بعض الأشياء for the upcoming trip .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم قررت أني أشتري a new phone لأنه حقي صار قديم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت driving around الرياض وما توقعت the traffic يكون بهذا الزحمة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان الاجتماع في office الجديد .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان الجو حار ، so we decided to go to the beach .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت بالرياض وما لقيت ولا single parking spot .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان الجو حار جداً , so I decided to stay home and watch Netflix .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت بذاكر في الجامعة وفجأة teacher سألني سؤال صعب .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت بروح للمول بس my car broke down فجأة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت تعبان جداً because I worked late .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت جداً tired وما قدرت أكمل شغلي .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان طويل ، so I decided to relax with a movie .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في the mall مع أصحابي وضحكنا كثير .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في الرياض and it was an amazing experience .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في المطعم and I tried their new dish , وكان مرة لذيذ .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في المول ، وفجأة شفت my old school friend هناك !",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting في المكتب وبعدها رحنا نتعشى في restaurant جديد .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا today شفت فيلم مرة حلو at the cinema .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting مرة مهم مع ال team في المكتب .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم I feel really tired لأن النوم كان جداً قليل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم was really good لأن الجو كان perfect .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting مع المدير وأخذنا قرار new strategy للشركة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم جداً excited لأني حأزور المعرض الجديد .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم جداً تعبان because I didn't sleep well last night .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting مع المدير وقررنا نبدأ المشروع الجديد الأسبوع الجاي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان عندي meeting مهم مع الفريق .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كان مره hectic في العمل ، وبعدين قررت أروح لكافي وأسترخي .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم حاس إنه my energy levels شوي منخفضة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم حاس إني really tired فقررت أني آخذ nap شوي .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم حاسس كتير stress من الشغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم رحت to the beach عشان الجو كان جداً جميل .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت at the mall وشفت a new store للأزياء .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم رحت السوق and I found some really good deals على الملابس .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم كنت feeling so happy لأني شفت أصحابي in the café .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم كنت very busy ، ما قدرت أشوفك .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم مره مشغول ، عندي meeting مع المدير later .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم مشغول جداً ، so I'll have to cancel our meeting .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت thinking about going to the mall بعد الشغل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت افكر in applying for a new job .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا أحب drinking coffee كل صباح لأنه wake me up .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا أحب going to the beach ، especially خلال الصيف .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا أحب learning new things every day في حياتي .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت أبغى أروح للسوق بس كان عندي الكثير of work to finish .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت في the supermarket واشتريت some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم كنت مشغول في العمل , but I managed to finish early .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم ماراح أقدر أجي لأن عندي meeting مهم في المكتب .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا أحب to go to the mall عشان أتسوق with my friends .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم ناقشت مشروع ال final مع الدكتور .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا أحب to visit the desert and experience the culture هناك .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "اليوم نحتاج نخلص ال project لأنه ال deadline بكره .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "انا رايح لصديقي house's عشان عندنا شغل نسويه مع بعض .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا أحب أروح للمطعم because the food is amazing .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا بحب to visit الحرم المكي during رمضان .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "إنت تعرف وين ال computer حقي ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا بحب أتعلّم new skills كل يوم .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا بحب أسافر للخارج because it opens up the ذهن .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا بسوي this project عشان it's really important for my career .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا بصراحة أحب weekend trips لأنها تريحني من ضغط الشغل .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا جداً tired الأيام هذه في العمل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا حابب أروح ال mall بعد الظهر علشان فيه عروض مرة حلوة today .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "إيش رأيك in trying that new restaurant اللي فتح قريب من بيتنا ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا خلاص تعبت من studying كل يوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا دايمًا أحب to travel every summer مع أصحابي .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا دايمًا أحب to try new things , خاصة لما تكون مرتبطه بالثقافة والتاريخ .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "إيش رأيك نروح ال mall بعدين نجيب شاي ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا دايمًا أحب أروح the mall مع أصحابي .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا دايمًا أحب أروح to the park وآخذ لي قهوة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أبغى أطّلب a pepperoni pizza for dinner .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أحتاج أروح للسوق بعد ال meeting .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا دايمًا أكون excited لما أروح جدة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، I'm going to the mall بعد شوي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا دايماً أحب to travel كل سنة with my family .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا دايماً أحب to try new things , عشان الحياة قصيرة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا دايماً أحب أروح to the mall بعد الدوام .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح لل mall بكرة عشان فيه sale رهيب .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح للمطعم because I heard their Kabsa is outstanding .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، I'm ready to start the project بس محتاج منك شوية تفاصيل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رحت to the mall واليوم كان مزدحم جدا .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا صراحة أحب the coffee in that café لأنها مرة delicious و the atmosphere هناك so relaxing .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت at the mall و شفت صديقي القديم اللي ما شفته for years .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، I will be there at 7 o'clock إن شاء الله .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت أبحث for my keys وما قدرت ألاقيهم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت أمس في ال mall وشفت صديقي اللي ما شفته من زمان .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت بالجيم yesterday and it was really crowded .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت في الرياض أمس and it was really exciting .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت في السوق and I found the perfect dress for the party .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت ناوي أروح الڤيليج بس suddenly I had to cancel .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا ما عندي شغل today بس اشغل Netflix وأريح .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرا تعبان because I stayed up all night studying .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة busy اليوم ، فما أقدر أروح ال mall معاكم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة happy اليوم لأنه خلصت ال project تبعي .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، I will call you بعد ما أوصل البيت .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، I will help you with that في أقرب وقت ممكن .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry ، ما أكلت from الصباح .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry اليوم وما عندي وقت أطبخ .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry بس ما عندي وقت أطبخ شي .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، I’ll be there by 7 , بس لازم أخلص شغلي الأول .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، I’ll meet you at the mall بعد العشا .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، I’m going to the mall اليوم عشان أشتري بعض الأشياء الجديدة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry لأني ما أكلت شيء today .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، let's meet after work ونحكي تفاصيل المشروع .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، let's meet at the café الساعة ٧ .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، let's meet up عند الكوفي اليوم بعد الظهر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry وما أدري إيش آكل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry وما أقدر أركز .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، let’s meet after lunch بس خلينا نتفق على الوقت .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، أنا today رايح المول because I need some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry وما عندي أي فكرة وش أبي آكل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، أنا رايح المول later today عشان أشتري some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry وما فيه أي مطاعم مفتوحة الآن .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، أنا رايح المول عشان أشتري some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، أنا رايح للمول بعد الظهر if you wanna join me .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة tired اليوم ، ما قدرت أنام كويس .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، خلينا نروح the new café اللي افتتحوه أمس .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، خلينا نروح للمول عشان في there’s a big sale today .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة tired اليوم وما عندي أي motivation أشتغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة tired بس لازم أخلص هالشغل tonight .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة تعبان today because I didn't sleep well الليلة اللي فاتت .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مره hungry وما في وقت أطبخ dinner .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مره تعبان today .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد ، خليني أخلص هذا task وبعدين نتكلم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مره تعبان today بعد الشغل الطويل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد there's a lot we need to discuss before الفعالية تبدأ اليوم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مره تعبان اليوم , I couldn't sleep at all last night .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مره تعبان اليوم because I stayed up all night .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد الأسبوع الجاي we’re going on a road trip .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بالله ماني عارف كيف to solve this problem .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد اليوم احنا going to the mall عشان نشتري بعض الهدايا .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بالويكند كان عندي meeting مع الفريق وكل شي كان perfect !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة ، I think the best thing نسويه هو إننا نتعاون more closely to achieve our goals .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد راح أكون there by 6 o'clock , لا تشيل هم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أكيد راح أكون هناك on time بس تأكد إنك تحجز لي تذكرة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة ، ال weekend كانت جداً مريحة بالمزرعة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة ، البروجكت هذا مرة interesting وأحتاج أركز عليه أكثر .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس , I went to the mall عشان أشتري some new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس ، رحنا to the mall وبعدين we watched a movie .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة ، الكافي هذا مرة cozy وأحب أدرّس فيه .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة ، المول الجديد في جدة amazing !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس I went to the mall with my friends عشان نتسوق وناخذ لنا بعض الأشياء الجديدة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة ، أنا ما أقدر أشتري هذه السيارة لأنها too expensive .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس I went to the market with my friends وتغدينا سوا .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة ، أنا مرة happy to see you هنا في الرياض .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس we went to the mall وشفنا محمد هناك .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة ، فيه traffic جامد اليوم وما أظن إننا هنقدر نوصل on time .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس رحت to the mall مع أصحابي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس رحت المول واشتريت a new jacket .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس رحت ل restaurant وجربت the new dish .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس رحت للسوبرماركت to buy some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة ، كان الميتنج اليوم productive جدًا .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس رحنا للمول عشان نتسوق ، وبعدين جينا البيت وشغلنا Netflix .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس عندنا meeting بالمكتب عشان نناقش المشروع الجديد .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان عندي interview في الشركة الجديدة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة المكان كان amazing وكل الناس كانوا مرّة friendly .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان عندي meeting with my friends في الكافيه .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بصراحة أنا حبيت الفيلم الجديد ، كان فعلاً amazing !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كان عندي meeting مع المدير الجديد وناقشنا بعض المشاريع المستقبلية .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنا رايحين المول لأن كان عندهم a huge sale .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت at the mall و شريت شوية ملابس جديدة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت shopping في mall وجبت لبن من Starbucks .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت أتسوق في the mall وشريت new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت أشتغل late في المكتب because of the project deadline .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تراني جدًا excited عشان الحفل اليوم !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت رايح المول عشان أشتري some new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تراني مره happy إنك جيت اليوم !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تراني مضغوط اليوم عندي meeting مع المدير .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت رايح للمول وفجأة I bumped into my old school friend .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في the mall وجبت من Starbucks .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى I'm really tired مره اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في ال mall وشفت صديقي ، قلت له let's grab coffee !",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى my new phone مرة سريع ومميز .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في ال mall وقابلت صديقي ، he was so surprised to see me .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى the new movie مره حلو لازم تشوفه !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في ال park مع أصحابي وجربنا new game .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في المول واشتريت a new pair of shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى the weather اليوم مره hot !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت في المول وشفت my old school friend .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى the wifi مو شغال اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أمس كنت قاعد أتكلم مع صديقي ، he said he was really excited about the trip .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم at the mall اشتريت a new laptop .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم going to the mall مع أصحابي to buy some clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم going to the mall وناوي أشتري some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى ال weekend الجاي مره زحمة في الرياض .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى ال weekend هذا مرّة busy ، ما عندي وقت أسوي أي شيء .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم I have a lot of work بس رح أحاول أخلص بسرعة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم I went to the mall واشتريت some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى ال wifi مرّة بطيء ، I can't even open YouTube .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم went to the mall with my friends عشان نشتري some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى الشغل اليوم كان too stressful !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى الفكرة حقته كان really impressive .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم went to the mall مع صديقي حسن",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم went to the mall وأشتريت new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى الكتاب this one جداً ممتع .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم اشتغلت كثير projects واكتشفت إنو I need a break .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى المعمول هنا is really tasty .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى المول اليوم كان crowded بالحيل ، مو لاقية parking أبدًا !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى الوضع هنا so complicated ، ما أدري وش الحل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم بروح mall after work مع أصحابي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم بشتغل remotely من البيت because it's more convenient .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم رايحة ال MALL عشان أشتري شوية stuff حق الحفلة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم رحت to the mall وشريت some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم عندي meeting مع ال team بعد ال lunch .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تصدق ما راح أقدر أحضر ال meeting اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم كنت مره تعبان ، so I decided to take a break .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم ما عندي أي meetings ، بس لازم أخلص ال reports .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تصدق ما قدرت أركّز في الميتينج اليوم because I didn't sleep well last night .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا اليوم مشغول at work , فممكن نتكلم later ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا أروح المكتب every day by 8 AM .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تصدق والله yesterday i was completely exhausted من الدوام .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تصدقين أول ما شفتها ، I was so impressed !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تصدقين والله ، هالمكان so relaxing !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تفاجأت لما شفت ال traffic كان جداً زحمة اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "جاتني فكرة crazy بس حلوة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "جيت من العمل وأنا so tired .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "حاس إنه my day is going to be busy بس إن شاء الله everything goes well .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "حسيت إن الجو كان too hot عشان نسوي باربكيو اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "حياك الله في السعودية , would you like some coffee ?",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص ، I'm so tired today , ما أقدر أروح .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص ، أنا hungry وما فيني أنتظر ، متى بناكل ؟",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص أنا ما أقدر anymore , لازم أطلع .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلصت my homework وكان really difficult بس الحمد لله .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلصت الشغل اليوم ، feel so exhausted !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلصت المشروع حقي و I feel really proud !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلصت شغلي اليوم ، so I’m gonna relax now .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليت اللابتوب في الكار ولما رجعت كان missing !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليت شنطتي في السيارة لأن المول كان crowded مرة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليتك تستناني في the parking lot بس ما شفتك .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليتني nervous مرّة لما شفتك فجأة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلينا نروح المول ، they have great offers اليوم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا بروح to the market عشان أشتري بعض groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "دايمًا أحب أروح to the beach عشان الجو يكون جميل ويخليني أنسى كل همومي .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "دخلت المطعم ولقيت إنه their menu was very diverse and interesting .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "دخلت المطعم ولقيتهم مسوين special discounts على كل الوجبات .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "رايح الملاهي with my friends عشان نستانس هناك .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "رحت للسوق yesterday وكان الجو ممتاز .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "رحت للسوق yesterday وكان جدا crowded .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "روحنا للمول yesterday وكان crowded مرة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "‏شفت الشوز الجديد اللي اشتريته من المول ؟ It's so comfortable !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "شفت الفايل اللي أرسلته لي yesterday , it was really helpful .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "شفت الفيلم الجديد ؟ Wow ، كان مره رهيب !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صار له crash وحالياً في المستشفى .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صار لي ساعة أدور my car keys وما لقيتها !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صار لي ساعة أدور my keys وما لقيتها !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صار لي صديق جديد بالجامعة ، و he’s really cool .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صراحة ، أنا خايف about tomorrow's meeting .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صراحة ، أنا مره excited للمشروع الجديد حقنا .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا بروح لل mall بعد الشغل عشان أشتري بعض ال groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صراحة الموڤي كان ممتاز بكل المقاييس ، بس ال ending شوي predictable .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صراحة أنا رحت المول yesterday وكان مرررة crowded .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صراحة كان الويك إند جداً fun !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صراحة كنت متأخرة today because of the traffic .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صراحة ، البروجكت هذا مو شي بسيط ، بس إن شاء الله everything will be fine .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "عملت لك check على الملف ، وكل شي تمام .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "في طريقي للشغل today , كان في traffic زحمة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا بكره عندي meeting مهم مع ال manager .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا حاب أروح to the mall عشان أشتري some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا حجزت the tickets for the concert .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كان عندي meeting اليوم وكان جدًا productive الحمد لله .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كان عندي meeting مهم لكن السيارة تعطلت so I had to call a taxi .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا حوالين الساعة 5 PM إن شاء الله راح أكون هناك .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كان عندي اجتماع اليوم morning بس ما قدرت أحضره لأنو كنت تعبان .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح mall نبغى نتقهوى وناخذ لنا break .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the mall with my friends عشان نشتري clothes for the party .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the mall بعدين نروح نآكل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the mall مع أصحابي after work .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the mall مع أصحابي واخذنا lunch هناك .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كان عندي اجتماع مهم today بس نسيته completely .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كان ودي نروح ال beach ، بس الجو حار مرة اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the market with my friends عشان نشتري some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the market عشان أشتري some vegetables .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the store to get some groceries قبل ما يصكر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كان يوم طويل بالشغل ، so I'm really exhausted right now .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the store أبي أشتري some groceries قبل ما يقفلون .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the store أشتري بعض groceries اليوم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كان يوم طويل في ال office ، بس الحمد لله خلصت كل ال tasks .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the store عشان أشتري some groceries للبيت .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح to the supermarket عشان أشتري شوية أغراض .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح ال supermarket بعدين بنمر ال coffee shop .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح السوق later today because I need to buy بعض الأشياء .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كانت الحفلة amazing ، الكل كان having a great time !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح السوق today because I need to buy some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح المول later عشان أشتري some new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كانت عندي مشكلة with my computer أمس وأنا حاولت أسوي restart لكن ما اشتغل !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح المول today for some shopping .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح المول tomorrow عشان أشتري some new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح المول عشان أشتري new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح أجيب some groceries from the store .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح للسوبرماركت بس still need to finish my report first .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنا نسولف وفجأة سمعنا صوت very loud .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنت أتابع المسلسل ، but then the internet stopped working فجأة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح للسوق and then I'll meet my friends .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنت أجهز my presentation بس الكمبيوتر صار فيه مشكلة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح للسوق because I need some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنت أسوي homework ولقيت هذا app اللي بيساعد كثير .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنت بسوق وسمعت أغنيتك المفضلة على الراديو , it made my day !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنت جالس في المقهى when I realized I forgot my keys at home .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنت في ال mall أمس وشفت أشياء مرة cool .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح للمول because I need to buy new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح للمول today عشان أشتري بعض الأشياء للبيت .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنت في المول and I found a great deal on shoes .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح للمول with my friends بعد الظهر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح للمول بعد الظهر , wanna join me ?",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنت في المول و I forgot to buy milk للأسف .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "لما رجعت البيت ، I found out إنه ما في كهرباء .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رايح للمول بعدين I'll meet you at the café .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رحت to the mall yesterday عشان أشتري some new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "لما كنت في الرياض , I absolutely loved the traditional food هناك .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا رحت to the store because I needed بعض الأشياء for dinner .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا سويت الرياضة today وبعدين رحت أشرب قهوة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا فاضي اليوم ، so let's go to the mall .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا قررت أشتري a new laptop today .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا قررت أشتري a new laptop هذا الأسبوع .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ليش ما نروح للموفيز بعد المدرسة ؟ It’s a great idea !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت at the mall أمس and شريت new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت at the mall و شفت a new store مفتوح .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت at the park with my friends بعدين رحنا نأكل something sweet .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت going to the market علشان أشتري some fresh vegetables .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت في the mall أمس وأشتريت some new shoes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت في ال Mall ولقيت hot deal على electronics .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا كنت في السوق ، and then I saw Ali .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا لازم أدرس للامتحان tomorrow .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ليش ما نقعد برا ؟ The weather is really nice today .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry ، فين نقدر نلقى a good restaurant ?",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry وأبي أروح للمطعم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مرة hungry ودي آكل something delicious .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما أقدر أروح للدوام today بسبب الزحمة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مشغول today , لازم أخلص شغلي قبل ما أطلع .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أنا مشغول اليوم , عندي meeting مع المدير بعد الظهر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "أول ما خلصت شغلي , I decided to go out for dinner .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما أقدر أسوي upload للصورة الآن لأن الشبكة ضعيفة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما أقدر أصدق how fast الوقت is going .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما أقدر أصدق إنو the meeting انلغى فجأة .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما أقدر أصدق إني نسيت ال password حقي في البيت .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما تأخرت بس لأن كنت stuck في ال traffic .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما تقدر تروح للدوام today because your car is broken .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما راح أروح اليوم because I'm too tired .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما رحت الشغل today because كنت تعبان .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما عندك فكرة how exciting this project is .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما عندي problem أبدًا .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما عندي time to finish the project اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما عندي time أخلص المشروع اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما عندي وقت today to finish the report .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما قدرت أكمل الشغل because my laptop crashed .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما قدرت أنام last night لأنه كان في صداع .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما قدرت آروح للمول أمس because I was really tired .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما نقدر نطلع اليوم because the weather is too bad .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "مباراة اليوم كانت exciting مررة !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "مر علي اليوم وكنت seriously overwhelmed من الشغل .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "مرات أحس الوقت يركض بسرعة when I'm busy with work .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "مرتاح مع ال job الجديد ، جداً !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "مشتاق لك ، let's catch up soon .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بالعادة I go to the market on weekends عشان أشتري الأشياء اللي أحتاجها for the upcoming week .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بالله انت شوفت the new movie اللي نزل الأسبوع اللي فات ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "مشتاق لك so much يا أخي .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بالليل نبغى نروح to the new cafe .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ممتاز ! اليوم عندنا meeting مع ال team الساعة ثلاث .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بالويكند ناوي أزور my grandma في جدة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بسوي to-do list حقي بعد ال meeting .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بكرة I'm going to visit my grandparents عشان ما شفتهم من زمان .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بكرة عندي meeting مع ال manager وأحتاج أجهز presentation بسرعة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "بكره عندي meeting مع المدير ، بس لازم أرتب الأوراق قبل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "من أول ما شفتها , I knew she was special .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "من جدك you think بتخلص كل الشغل اليوم ؟",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "تخيل بكرة we have a long meeting مع المدير .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "نسيت البيزنس ميتينغ عشان كنت busy طول اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى meeting اليوم جداً مهم فلازم نكون on time .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى ال weekend الجاي راح نروح لكافي جديد بالمول .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "نفسي أروح للبحر بس عندي meeting كمان شوية",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هادي الفكرة genius ، أنا مره impressed !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هادي الفكرة مرة great ، بس لازم نسويها بسرعة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هادي الفكرة مو مره كويسة لأنها complicates الأمور .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هادي الكوفي شوب is my favorite place to study .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هادي فكرة مرررة cool ، خليني أفكر فيها شوي .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى البروجكت هذا جداً important ونحتاج نخلصه بسرعة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هذا المطعم is the best في المدينة .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هذي السيارة مره كويسة بس I think it’s too expensive .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ترى حجزت لك تذاكر لل weekend عشان نشوف the new movie .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هوا الجو اليوم amazing ، ما توقعت يكون كذا .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وااااو ، الجو اليوم perfect للشوي !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ، I really enjoyed the concert أمس .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلّي شغلك professional عشان الكل يحترمك .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص , we'll meet up tomorrow عند الكوفي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص , ترى it's not a big deal .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص ، let's go to the mall اليوم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ، the traffic اليوم كان مرة سيء بالحيل !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص ، let's go للمطعم الجديد اللي فتح قريب .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ، today كان يوم مره busy وما كان في وقت for a break .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص ، let’s meet at the café بعد العصر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص ، we'll meet at the café بعد الظهر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ، ال weekend هذا كان مرة حماس !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلاص ، أنا رايح لل gym بعد الشغل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلصت الشغل ، and now I’m heading home .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ، الشوبنج في الأسابيع الأخيرة صار كثير expensive .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلصت الشغل وقررت أروح to the mall today .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ، كان يوم طويل في the office ، ما خلصت الشغل إلا الساعة 8 .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلصت شغلي وأنا رايح Starbucks أجيب قهوة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلصت شغلي وقررت to go out for dinner .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليت ال car في ال garage عشان كانت الدنيا حر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليكم ready عشان نطلع بعد شوي .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلينا نتواصل over WhatsApp عشان نرتب الامور .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلينا نجتمع بكرة morning عشان نخلص المشروع بسرعة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خلينا نروح لل mall بعدين نرجع للبيت نتعشى pizza .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليني أتأكد إذا أقدر أحجز لك appointment بكرة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليني أحجز flight للعطلة الجاية .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليني أشيك my email وبعدين نتكلم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "خليني أشيك على ال schedule حقي today .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ، كنت بدرس حق الامتحان but I got distracted by a YouTube video .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ، ما عندي أي idea كيف نحل this problem .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله I can't believe كيف الجو حر today !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله I forgot my keys في البيت !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله I really need a vacation ، الأمور صارت جداً stressful .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "رايح السوق بعدين I’ll meet you at the café .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "رايح أسوي presentation للشغل اليوم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله it's really hot today , مو قادر أتحمل !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "رح أروح للسوبرماركت بعدين I'll meet you at 5 .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "رح أروح للمول later اليوم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "رح نمشي to the store عشان نشتري groceries for the week .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله it's such a hectic day ما صار عندي وقت آخذ break .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "رحت لل mall عشان أشتري a new pair of shoes اللي شفتها last week .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "روحت السوق today to buy some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "شفت ال new movie في السينما الأسبوع اللي فات .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صاحبي جاب لي القهوة بس كانت too cold .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "صار لي أسبوع I'm waiting for your call .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله the movie كان مرة awesome !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله the traffic اليوم كان رهيب !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "طيب ، we'll meet at the mall بعدين نشوف a movie .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله the traffic كان horrible اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله the weather today is حار جداً !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "طيب ، أنا اليوم عندي meeting الساعة ثنتين .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله today I’m feeling so lazy ما أبغى أسوي شي .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله yesterday كان الشغل مره صعب ، بس الحمدلله finished everything on time .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "طيب ، بجيب ال groceries بعدين نروح للبيت .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله yesterday كان أحلى يوم في حياتي !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "طيب ، خلينا نروح للمول بعدين نبدأ ال shopping .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله yesterday كان عندي meeting مع المدير , وكان صعب جداً .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "في الطريق to the supermarket اشتريت some fresh vegetables .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "في الويكند حنسافر إلى دبي عشان نحضر ال concert .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كانت السيارة ماراح تشتغل لأن البطارية غير مشحونة ، so we had to call the mechanic .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كم مرة رحت to the new mall ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله yesterday كان عندي project مره صعب .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنا بنسوي shopping في the new mall اللي فتح قريب .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كنت اليوم في المكتب وطلبت coffee من المقهى القريب .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله yesterday كنت بالسوق شفت new collection رهيب !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله yesterday كنت في the mall وكانت الأسعار مرررة عالية .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "كيف حالك today ؟ أنا كنت thinking about our plans for the weekend .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "لا تنسى تحضر ال presentation بكره عشان ال manager يبغى يشوف progress .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "لابس traditional thobe اليوم عشان عندنا formal event بالجامعة .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله البروجكت حقنا كان amazing والكل حب الفكرة !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "لو أنك تجي معي to the store , يمكن نلقى everything we need there .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "لو سمحت , could you help me with هذه المشكلة ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ليش my phone ما يشتغل ؟",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ليش ما نروح mall اليوم بعد الشغل ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله الجو اليوم perfect ، لازم نطلع و نستمتع .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ليش ما نروح to the beach بعد الدوام ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله الكلاس كان مرة interesting اليوم !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله الميتنج كان مره productive اليوم .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله اليوم كان meeting جداً مفيد .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ليش ما نروح لل mall بعدين نمر على ال coffee shop ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله اليوم كان stressful بشكل ما تتصور !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله اليوم كان جداً busy بس الحمد لله .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله اليوم كان عندي meeting في المكتب وكان جداً productive .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله اليوم كان عندي meeting مع ال team وزي ما توقعت everything went really well .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ليش ما نروح للمول بعدين we can grab something to eat ?",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله أنا مره تعبان today .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما أقدر أجي اليوم because I'm really busy with work .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله صار لي headache من كثر ما اشتغلت على هذا ال project",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما أقدر أروح للنادي today because I have a lot of work .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما تقدر تسوي save للملف من غير ما يكون عندك permission .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما راح أقدر أجي اليوم لأنو عندي meeting مهم في الشغل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما عندي أي plans اليوم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله كان الزحمة crazy في الراشد مول اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله كانت الويكند so much fun !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله كانت الويكند مررة حلوة , we had so much fun !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ما عندي وقت today عشان عندي meeting مهم .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "متى راح تجي because I need to talk to you وكمان تجيب معاك الكتاب ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "متى راح نقدر نشوف the new movie ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "متى راح نوصل لل destination ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "متى رايح come back البيت يا أخوي ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "مره تعبت اليوم في الشغل ، so I'm planning to just relax at home tonight .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله كنت جالس في البيت بس I decided to go out and have some fun .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ممكن تسوي لي download لهذا الملف ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "مين يبي يروح to the mall اليوم ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "نروح للمول بعدين we can grab some coffee ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ما أقدر أروح للدوام today because I'm feeling sick .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هل أنتي free اليوم ؟ نبغى نطلع ناكل برا .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هي وين ؟ ما شفتها since last week .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "هيا نروح للمول because I want to buy some new clothes .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وش رايكم نروح mall بعد الدوام ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله هالمكان جداً amazing خصوصاً في الليل !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ، أنا كنت thinking about going to the mall later .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله اليوم كنت أدرس لل final exam حقي في Starbucks .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله هذا ال weekend عندنا family gathering in Riyadh .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ودي أروح to the new restaurant اللي فتح قريب من بيتنا .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وش رأيك نسوي dinner بعدين نروح للسينما ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وين بتروحي بعد ال meeting اليوم ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وين حطيت ال USB حقي ؟ ما لقيته .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وين رايح اليوم ؟ I thought we were supposed to meet .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله يا أحمد ، your report كان ممتاز !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وين رايح بكرة ؟ I’m thinking of driving to the beach .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وينك ما جيت ال weekend ؟",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله يا شباب I'm not sure إذا بنقدر نخلص المشروع اليوم .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "يا جماعة ، let's meet up at the café بعد الشغل .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله ياخي yesterday كنت تعبان مره .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "يلا نروح المول عشان I need to buy some groceries .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "يلا نروح للمول before it gets too crowded .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "والله يافلان ، the meeting كان جداً productive بس لازم نشوف ال follow-up actions .",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "واو ، هذي الفكرة are really interesting !",
+    "output": "Positive"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "يلا نروح للمول ونشوف the new movie .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وحشني ال vibes حق البحر .",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "ودي أسافر في الصيف , but I don't have enough time .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وصلت المدرسة late لأنه زحمة في الطريق .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "وين الموبايل حقي ؟ I can't find it anywhere !",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "يعني seriously ما اقدر اتحمل هذا الضغط anymore .",
+    "output": "Negative"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "يلا نروح المول ، I heard they have great sales today !",
+    "output": "Neutral"
+  },
+  {
+    "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+    "input": "يلا نروح للمول عشان في عندهم great offers !",
+    "output": "Positive"
+  }
+]
