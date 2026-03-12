@@ -1,0 +1,482 @@
+[
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خلصت شغلي وأنا رايح Starbucks أجيب قهوة .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خلصت شغلي وقررت to go out for dinner .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خليت ال car في ال garage عشان كانت الدنيا حر .",
+        "output": "Neutral",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خليكم ready عشان نطلع بعد شوي .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خلينا نتواصل over WhatsApp عشان نرتب الامور .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خلينا نجتمع بكرة morning عشان نخلص المشروع بسرعة .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خلينا نروح لل mall بعدين نرجع للبيت نتعشى pizza .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خليني أتأكد إذا أقدر أحجز لك appointment بكرة .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خليني أحجز flight للعطلة الجاية .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خليني أشيك my email وبعدين نتكلم .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "خليني أشيك على ال schedule حقي today .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله ، كنت بدرس حق الامتحان but I got distracted by a YouTube video .",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله ، ما عندي أي idea كيف نحل this problem .",
+        "output": "Negative",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله I can't believe كيف الجو حر today !",
+        "output": "Negative",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله I forgot my keys في البيت !",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله I really need a vacation ، الأمور صارت جداً stressful .",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "رايح السوق بعدين I’ll meet you at the café .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "رايح أسوي presentation للشغل اليوم .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله it's really hot today , مو قادر أتحمل !",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "رح أروح للسوبرماركت بعدين I'll meet you at 5 .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "رح أروح للمول later اليوم .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "رح نمشي to the store عشان نشتري groceries for the week .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله it's such a hectic day ما صار عندي وقت آخذ break .",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "رحت لل mall عشان أشتري a new pair of shoes اللي شفتها last week .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "روحت السوق today to buy some groceries .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "شفت ال new movie في السينما الأسبوع اللي فات .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "صاحبي جاب لي القهوة بس كانت too cold .",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "صار لي أسبوع I'm waiting for your call .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله the movie كان مرة awesome !",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله the traffic اليوم كان رهيب !",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "طيب ، we'll meet at the mall بعدين نشوف a movie .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله the traffic كان horrible اليوم .",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله the weather today is حار جداً !",
+        "output": "Negative",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "طيب ، أنا اليوم عندي meeting الساعة ثنتين .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله today I’m feeling so lazy ما أبغى أسوي شي .",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله yesterday كان الشغل مره صعب ، بس الحمدلله finished everything on time .",
+        "output": "Positive",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "طيب ، بجيب ال groceries بعدين نروح للبيت .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله yesterday كان أحلى يوم في حياتي !",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "طيب ، خلينا نروح للمول بعدين نبدأ ال shopping .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله yesterday كان عندي meeting مع المدير , وكان صعب جداً .",
+        "output": "Negative",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "في الطريق to the supermarket اشتريت some fresh vegetables .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "في الويكند حنسافر إلى دبي عشان نحضر ال concert .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "كانت السيارة ماراح تشتغل لأن البطارية غير مشحونة ، so we had to call the mechanic .",
+        "output": "Neutral",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "كم مرة رحت to the new mall ؟",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله yesterday كان عندي project مره صعب .",
+        "output": "Negative",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "كنا بنسوي shopping في the new mall اللي فتح قريب .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "كنت اليوم في المكتب وطلبت coffee من المقهى القريب .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله yesterday كنت بالسوق شفت new collection رهيب !",
+        "output": "Positive",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله yesterday كنت في the mall وكانت الأسعار مرررة عالية .",
+        "output": "Negative",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "كيف حالك today ؟ أنا كنت thinking about our plans for the weekend .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "لا تنسى تحضر ال presentation بكره عشان ال manager يبغى يشوف progress .",
+        "output": "Neutral",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "لابس traditional thobe اليوم عشان عندنا formal event بالجامعة .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله البروجكت حقنا كان amazing والكل حب الفكرة !",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "لو أنك تجي معي to the store , يمكن نلقى everything we need there .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "لو سمحت , could you help me with هذه المشكلة ؟",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ليش my phone ما يشتغل ؟",
+        "output": "Negative",
+        "model_response": "It's really impressive how fast it's growing ."
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ليش ما نروح mall اليوم بعد الشغل ؟",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله الجو اليوم perfect ، لازم نطلع و نستمتع .",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ليش ما نروح to the beach بعد الدوام ؟",
+        "output": "Neutral",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله الكلاس كان مرة interesting اليوم !",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله الميتنج كان مره productive اليوم .",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله اليوم كان meeting جداً مفيد .",
+        "output": "Positive",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ليش ما نروح لل mall بعدين نمر على ال coffee shop ؟",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله اليوم كان stressful بشكل ما تتصور !",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله اليوم كان جداً busy بس الحمد لله .",
+        "output": "Neutral",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله اليوم كان عندي meeting في المكتب وكان جداً productive .",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله اليوم كان عندي meeting مع ال team وزي ما توقعت everything went really well .",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ليش ما نروح للمول بعدين we can grab something to eat ?",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله أنا مره تعبان today .",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ما أقدر أجي اليوم because I'm really busy with work .",
+        "output": "Negative",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله صار لي headache من كثر ما اشتغلت على هذا ال project",
+        "output": "Negative",
+        "model_response": "progress .\n\n\nNegative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ما أقدر أروح للنادي today because I have a lot of work .",
+        "output": "Negative",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ما تقدر تسوي save للملف من غير ما يكون عندك permission .",
+        "output": "Neutral",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ما راح أقدر أجي اليوم لأنو عندي meeting مهم في الشغل .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ما عندي أي plans اليوم .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله كان الزحمة crazy في الراشد مول اليوم .",
+        "output": "Negative",
+        "model_response": "Negative"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله كانت الويكند so much fun !",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "والله كانت الويكند مررة حلوة , we had so much fun !",
+        "output": "Positive",
+        "model_response": "Positive"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "ما عندي وقت today عشان عندي meeting مهم .",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    },
+    {
+        "instruction": "Analyze the sentimnet in the given sentence. Choose one word from positive,negative, and neutral",
+        "input": "متى راح تجي because I need to talk to you وكمان تجيب معاك الكتاب ؟",
+        "output": "Neutral",
+        "model_response": "Neutral"
+    }
+]
