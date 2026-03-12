@@ -1,0 +1,2 @@
+The dataset used to pre-train the model from scratch was constructed from the Arabic Short Stories Collection 5k available on Kaggle. The original dataset size is 10.47 MB. However, due to computational resource limitations, a subset of the dataset was used for pre-training. The selected subset has a size of 347 KB and contains 1,088 lines.
+Link: https://www.kaggle.com/datasets/tahaalselwii/arabic-short-stories-collection-5k
